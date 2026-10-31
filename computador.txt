@@ -1,0 +1,1 @@
+Computador testando a escrita em um arquivo de texto
